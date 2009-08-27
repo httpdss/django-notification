@@ -1,0 +1,122 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <kenny@belitzky.com>, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-08-26 21:36-0300\n"
+"PO-Revision-Date: 2009-08-26 21:23-0300\n"
+"Last-Translator: Kenneth Belitzky <kenny@belitzky.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: decorators.py:34
+msgid "Restricted Access"
+msgstr "Acceso Restringido"
+
+#: decorators.py:57
+msgid "Authorization Required"
+msgstr "Requiere Autorización"
+
+#: feeds.py:52
+msgid "Notices Feed"
+msgstr "Fuente web de Avisos"
+
+#: models.py:40
+msgid "label"
+msgstr "etiqueta"
+
+#: models.py:41
+msgid "display"
+msgstr "mostrar"
+
+#: models.py:42
+msgid "description"
+msgstr "descripción"
+
+#: models.py:45
+msgid "default"
+msgstr "por defecto"
+
+#: models.py:51 models.py:72 models.py:128 models.py:372
+msgid "notice type"
+msgstr "tipo de aviso"
+
+#: models.py:52
+msgid "notice types"
+msgstr "tipos de aviso"
+
+#: models.py:57
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: models.py:71 models.py:126 models.py:366
+msgid "user"
+msgstr "usuario"
+
+#: models.py:73
+msgid "medium"
+msgstr "medio"
+
+#: models.py:74
+msgid "send"
+msgstr "enviar"
+
+#: models.py:77
+msgid "notice setting"
+msgstr "ajuste de aviso"
+
+#: models.py:78
+msgid "notice settings"
+msgstr "ajustes de aviso"
+
+#: models.py:127
+msgid "message"
+msgstr "mensaje"
+
+#: models.py:129 models.py:374
+msgid "added"
+msgstr "agregado"
+
+#: models.py:130
+msgid "unseen"
+msgstr "no visto"
+
+#: models.py:131
+msgid "archived"
+msgstr "archivado"
+
+#: models.py:132
+#, fuzzy
+msgid "on site"
+msgstr "en el sitio"
+
+#: models.py:158
+msgid "notice"
+msgstr "aviso"
+
+#: models.py:159
+msgid "notices"
+msgstr "avisos"
+
+#: models.py:377
+msgid "signal"
+msgstr "señal"
+
+#: models.py:383
+msgid "observed item"
+msgstr "elemento observado"
+
+#: models.py:384
+msgid "observed items"
+msgstr "elementos observados"
+
+#: templates/notification/full.html:1 templates/notification/notice.html:1
+#, fuzzy, python-format
+msgid "%(notice)s"
+msgstr "avisos"
